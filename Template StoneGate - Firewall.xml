@@ -772,7 +772,7 @@
             <macros>
                 <macro>
                     <macro>{$SNMP_COMMUNITY}</macro>
-                    <value>1F5p</value>
+                    <value>public</value>
                 </macro>
             </macros>
         </template>
